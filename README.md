@@ -16,8 +16,3 @@ Here is also the diagram you saw in class on how it should work:
 
 We showed in the lectures two ways to evaluate your predictions. The *intersection over union (IOU)* and the *dice score*. Recall that:
 
-$$IOU = \frac{area\_of\_overlap}{area\_of\_union}$$
-<br>
-$$Dice Score = 2 * \frac{area\_of\_overlap}{combined\_area}$$
-
-The code below does that for you as you've also seen in the ungraded lab. A small smoothing factor is introduced in the denominators to prevent possible division by zero.

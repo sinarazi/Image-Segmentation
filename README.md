@@ -14,5 +14,5 @@ Here is also the diagram you saw in class on how it should work:
 
 ### Metrics
 
-We showed in the lectures two ways to evaluate your predictions. The *intersection over union (IOU)* and the *dice score*. Recall that:
+It is showen by *intersection over union (IOU)* and the *dice score*.
 

@@ -1,4 +1,4 @@
-# Image-Segmentation-of-Handwritten-Digits
+# Image-Segmentation
 
 <img src='https://drive.google.com/uc?export=view&id=1-WBX7w_R9abwdGmAUBFWWEcJ0LkMppq2' alt='m2nist digits'>
 
